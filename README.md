@@ -92,7 +92,7 @@
 - [문제 103](https://www.notion.so/103-3b6a459de56841b4ad25fa3f127002c3)
 - [문제 104](https://www.notion.so/104-b0e6ed1d36bc4bfca51bf6d8e8496ffb)
 
-### GROUP FUNCTION
+##### GROUP FUNCTION
 - [문제 105](https://www.notion.so/105-86fac5abeb734918a26fc18f37584c9d)
 - [문제 106](https://www.notion.so/106-9aa68d7e413d4752911e129c8432b587)
 - [문제 107](https://www.notion.so/107-34b00554faf94bf49a1378f55253b37c)
