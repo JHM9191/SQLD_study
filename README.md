@@ -1,6 +1,6 @@
 # SQLD 자격증 시험 공부 
 
-
+*이론서에 있는 이론들과 각종 문제를 노션에 정리해 두었습니다.*
 
 
 ## 1. [이론] Part 1 — 데이터 모델링
@@ -97,6 +97,14 @@
 - [문제 106](https://www.notion.so/106-9aa68d7e413d4752911e129c8432b587)
 - [문제 107](https://www.notion.so/107-34b00554faf94bf49a1378f55253b37c)
 - [문제 108](https://www.notion.so/108-ca05a9a99e6a4214b67a7cd2b3bc0b74)
+- [문제 109](https://www.notion.so/109-f565c2e3d1c2492f974943302282ac0c)
+- [문제 110](https://www.notion.so/110-282928a97f594361a130afd25b83093f)
+- [문제 111](https://www.notion.so/111-86eca9e1bd2946488e8b29f114bbc134)
+
+##### WINDOW FUNCTION
+- [문제 112](https://www.notion.so/112-04a66500f146494e92929a549cf86a42)
+- [문제 113](https://www.notion.so/113-5b724c6416644f8b99b20c6c7bc01047)
+- [문제 114](https://www.notion.so/114-fd503676315f4983bfe2718d3a8356bc)
 
 
 
