@@ -109,6 +109,45 @@
 
 
 ## 4. 핵심정리
+
+##### SQL 기본
+- [[01] 데이터 제어어(DCL)](https://www.notion.so/jhm9191/01-DCL-56de6dc11f11403dbbae0c8e1f300421)
+- [[02] 테이블 칼럼에 대한 정의 변경](https://www.notion.so/jhm9191/02-c7bf23dae6064a0d920ba6a59fe09bb3)
+- [[03] NULL 값 정의](https://www.notion.so/jhm9191/03-NULL-d4b57585efaa4effb7ba97a22fc28bc5)
+- [[04] 제약조건의 종류](https://www.notion.so/jhm9191/04-88f0d7d94e214b7c8af8db6fb072d8a5)
+- [[05] 테이블 생성의 주의사항](https://www.notion.so/jhm9191/05-c4ffa06f78d44b669b864ede4f1047b2)
+- [[06] 테이블의 불필요한 칼럼 삭제 SQL 구문](https://www.notion.so/jhm9191/06-SQL-139e97757a504f5bbecd22bfb1bbefd5)
+- [[07] 테이블에 데이터를 입력하는 두 가지 유형의 SQL 구문](https://www.notion.so/jhm9191/07-SQL-2c21fe3950224ae1a88a8b63538d8ea8)
+- [[08] 입력된 데이터의 수정 SQL 구문](https://www.notion.so/jhm9191/08-SQL-a6300732f63540a48d1fdb638bbc49ad)
+- [[09] 테이블에 입력된 데이터 조회](https://www.notion.so/jhm9191/09-476fbd7bb55e4bad9ec2186dc6aade45)
+- [[10] TRUNCATE TABLE 사용법 | DROP TABLE과의 차이](https://www.notion.so/jhm9191/10-TRUNCATE-TABLE-DROP-TABLE-c6797996ec3f4c8f88ed547a485b314f)
+- [[11] 트랜잭션의 특성(ACID)](https://www.notion.so/jhm9191/11-ACID-be44fb50efef4db7b989590059abdce9)
+- [[12] ROLLBACK](https://www.notion.so/jhm9191/12-ROLLBACK-325bcbfad66d4d80a6c40a9b0d7703e4)
+- [[13] BEGIN, COMMIT, ROLLBACK TRANSACTION](https://www.notion.so/jhm9191/13-BEGIN-COMMIT-ROLLBACK-TRANSACTION-1ea5d0b5ac464113bc6cef372921d496)
+- [[14] 저장점(SAVEPOINT)](https://www.notion.so/jhm9191/14-SAVEPOINT-4e2657b06e194e60b27d81d5e84f6afd)
+- [[15] WHERE절](https://www.notion.so/jhm9191/15-WHERE-ee553a09a4414b8ab377129ad7934778)
+- [[16] 연산자의 우선순위](https://www.notion.so/jhm9191/16-64f820da0d744708bdbac62bde08c01c)
+- [[17] NULL의 연산](https://www.notion.so/jhm9191/17-NULL-031b173074534c788b490e914b6391ae)
+- [[18] 부정 비교 연산자](https://www.notion.so/jhm9191/18-1b6976dd3a4a4ebca4b0a0a03f6da26a)
+- [[19] SQL 비교 연산자](https://www.notion.so/jhm9191/19-SQL-60451ffe59a64ac481922f3558f5df5b)
+- [[20] 연산자의 종류](https://www.notion.so/jhm9191/20-cb312ac236f44eeea299eb0a2438b6c0)
+- [[21] 함수](https://www.notion.so/jhm9191/21-e7bbd74ca71f48a2bc3024f57314aded)
+- [[22] 단일행 문자형 함수의 종류](https://www.notion.so/jhm9191/22-5d7d67b6576c4150a0cb788a102f53b5)
+- [[23] 단일행 함수의 종류](https://www.notion.so/jhm9191/23-77504f74aa4147d8a3510a825cb31708)
+- [[24] DUAL 테이블의 특성](https://www.notion.so/jhm9191/24-DUAL-ac2c99ca3c75428ba89e9744e78feacc)
+- [[25] NULL의 특성](https://www.notion.so/jhm9191/25-NULL-bc8099cc2e2142b0a6d01675a9863be0)
+- [[26] 단일행 NULL 관련 함수의 종류](https://www.notion.so/jhm9191/26-NULL-a54c0fe66b3a49258ac263106d7c3d42)
+- [[27] NULL 포함 연산의 결과](https://www.notion.so/jhm9191/27-NULL-4b7bf38fb8574fb79989e6cc1168bc9e)
+- [[28] 집계 함수의 종류](https://www.notion.so/jhm9191/28-75417568598649a59fbeff93248b6374)
+- [[29] GROUP BY 문장](https://www.notion.so/jhm9191/29-GROUP-BY-94ccf938e10b4fe2a64cb6b6935eeb35)
+- [[30] GROUP BY절과 HAVING절의 특성](https://www.notion.so/jhm9191/30-GROUP-BY-HAVING-dd78d183b43340fcbc858365e11d6ffc)
+- [[31] ORDER BY 문장](https://www.notion.so/jhm9191/31-ORDER-BY-d99506fdf5104db88719cade1207f5cd)
+- [[32] ORDER BY절의 특징](https://www.notion.so/jhm9191/32-ORDER-BY-ac06cc6371c44e919f580566380990bb)
+- [[33] SELECT 문장 실행 순서](https://www.notion.so/jhm9191/33-SELECT-b76910afd4d144c19eec25d61b2f2f3e)
+- [[34] TOP() 예제](https://www.notion.so/jhm9191/34-TOP-3de407a4025b4b9d998e6eac67a6a89c)
+- [[35] EQUI JOIN 문장](https://www.notion.so/jhm9191/35-EQUI-JOIN-9eb0d66e23854c0db30af5b467bd05ee)
+- [[36] JOIN](https://www.notion.so/jhm9191/36-JOIN-33e649bfce9e412ab921888caedc3643)
+
 ##### SQL 활용
 - [01 순수 관계 연산자와 SQL 문장 비교](https://www.notion.so/jhm9191/01-SQL-72f77261f32345b688c4ae8c373b0910)
 - [02 ANSI/ISO SQL에서 표시하는 FROM절의 JOIN 형태](https://www.notion.so/jhm9191/02-ANSI-ISO-SQL-FROM-JOIN-54b5d3e4f0114f8dbd9ec4fc418ea0b6)
@@ -135,7 +174,6 @@
 - [23 프로시저와 트리거의 차이점](https://www.notion.so/jhm9191/23-d2724535f1fe4ea89df1ef12f001209c)
 - [24 저장 모듈(Stored Module)](https://www.notion.so/jhm9191/24-Stored-Module-e585fdb4d358484aac615c29639a19b2)
 - [25 PL/SQL의 특징](https://www.notion.so/jhm9191/25-PL-SQL-2ec5c9b02cff499489239c77e6f4f49d)
-
 
 
 
