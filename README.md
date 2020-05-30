@@ -7,19 +7,19 @@
 ## 1. [이론] Part 1 — 데이터 모델링
 
 ##### 데이터 모델링
-- [[1] 데이터 모델링의 이해](https://www.notion.so/1-c67ee7b1de1d49d4af05819529ebee0b)
-- [[2] 3층 스키마 (3-Level Schema)](https://www.notion.so/2-3-3-Level-Schema-f82f8fb4da184801b3f2352921379eb5)
-- [[3] 엔터티 (Entity)](https://www.notion.so/3-Entity-348295c004dd40fc8fb3993ca2ddc5f0)
-- [[4] 속성 (Attribute)](https://www.notion.so/4-Attribute-868fa9e384024a94a7c1e16e2e9256a7)
-- [[5] 관계 (Relationship)](https://www.notion.so/5-Relationship-bac4f3683063447e80f9f1d9da55bec3)
-- [[6] 엔터티 식별자 (Entity Identifier)](https://www.notion.so/6-Entity-Identifier-8598f047378f4fa181875be5a5e33df5)
+- [[01] 데이터 모델링의 이해](https://www.notion.so/1-c67ee7b1de1d49d4af05819529ebee0b)
+- [[02] 3층 스키마 (3-Level Schema)](https://www.notion.so/2-3-3-Level-Schema-f82f8fb4da184801b3f2352921379eb5)
+- [[03] 엔터티 (Entity)](https://www.notion.so/3-Entity-348295c004dd40fc8fb3993ca2ddc5f0)
+- [[04] 속성 (Attribute)](https://www.notion.so/4-Attribute-868fa9e384024a94a7c1e16e2e9256a7)
+- [[05] 관계 (Relationship)](https://www.notion.so/5-Relationship-bac4f3683063447e80f9f1d9da55bec3)
+- [[06] 엔터티 식별자 (Entity Identifier)](https://www.notion.so/6-Entity-Identifier-8598f047378f4fa181875be5a5e33df5)
 <br>
 
 ##### 데이터 모델과 성능
-- [[1] 정규화](https://www.notion.so/1-822d6153305e47108e76b11816b435e3)
-- [[2] 정규화와 성능](https://www.notion.so/2-f802ce8eb33f440b9350edd7867f1906)
-- [[3] 반정규화 (De-Normalization)](https://www.notion.so/3-De-Normalization-54644197fe23454e93e48edf701ba237)
-- [[4] 분산 데이터베이스](https://www.notion.so/4-22d12df09af64ba9b7e3750472eec455)
+- [[01] 정규화](https://www.notion.so/1-822d6153305e47108e76b11816b435e3)
+- [[02] 정규화와 성능](https://www.notion.so/2-f802ce8eb33f440b9350edd7867f1906)
+- [[03] 반정규화 (De-Normalization)](https://www.notion.so/3-De-Normalization-54644197fe23454e93e48edf701ba237)
+- [[04] 분산 데이터베이스](https://www.notion.so/4-22d12df09af64ba9b7e3750472eec455)
 <br>
 <br>
 
@@ -29,15 +29,15 @@
 <br>
 
 ##### SQL 기본
-- [[1] 관계형 데이터베이스(Relation Database)](https://www.notion.so/1-Relation-Database-834e4fc30ec944d39b6c2039e1ff673f)
-- [[2] SQL (Structured Query Language) 종류](https://www.notion.so/2-SQL-Structured-Query-Language-f830c26651854ebea9ed2ffdbc757287)
-- [[3] DDL (Data Definition Language)](https://www.notion.so/3-DDL-Data-Definition-Language-3356a28fba4746b780cc2dc1474ad932)
-- [[4] DML (Data Manupulation Language)](https://www.notion.so/4-DML-Data-Manupulation-Language-26bbd16f9ef64b41826e067a25231ba5)
-- [[5] WHERE문 사용](https://www.notion.so/5-WHERE-488f5de173e04d07b2af9e26f765ccc4)
-- [[6] GROUP 연산](https://www.notion.so/6-GROUP-5174397d68e74683a739234fb4441f49)
-- [[7] SELECT문 실행 순서](https://www.notion.so/7-SELECT-a489b6a589584759881557ec69940df0)
-- [[8] 명시적(Explicit) 형변환과 암시적(Implicit) 형변환](https://www.notion.so/8-Explicit-Implicit-a025200ec3ac4127b41b3142e714c439)
-- [[9] 내장형 함수 (BUILT-IN Function)](https://www.notion.so/9-BUILT-IN-Function-e2788ae6fb504e5fa0e9fd08f7c4056c)
+- [[01] 관계형 데이터베이스(Relation Database)](https://www.notion.so/1-Relation-Database-834e4fc30ec944d39b6c2039e1ff673f)
+- [[02] SQL (Structured Query Language) 종류](https://www.notion.so/2-SQL-Structured-Query-Language-f830c26651854ebea9ed2ffdbc757287)
+- [[03] DDL (Data Definition Language)](https://www.notion.so/3-DDL-Data-Definition-Language-3356a28fba4746b780cc2dc1474ad932)
+- [[04] DML (Data Manupulation Language)](https://www.notion.so/4-DML-Data-Manupulation-Language-26bbd16f9ef64b41826e067a25231ba5)
+- [[05] WHERE문 사용](https://www.notion.so/5-WHERE-488f5de173e04d07b2af9e26f765ccc4)
+- [[06] GROUP 연산](https://www.notion.so/6-GROUP-5174397d68e74683a739234fb4441f49)
+- [[07] SELECT문 실행 순서](https://www.notion.so/7-SELECT-a489b6a589584759881557ec69940df0)
+- [[08] 명시적(Explicit) 형변환과 암시적(Implicit) 형변환](https://www.notion.so/8-Explicit-Implicit-a025200ec3ac4127b41b3142e714c439)
+- [[09] 내장형 함수 (BUILT-IN Function)](https://www.notion.so/9-BUILT-IN-Function-e2788ae6fb504e5fa0e9fd08f7c4056c)
 - [[10] DECODE와 CASE문](https://www.notion.so/10-DECODE-CASE-d9956534aeee4821bd448fe661ca7a7f)
 - [[11] ROWNUM과 ROWID](https://www.notion.so/11-ROWNUM-ROWID-f1751c1713034560bea6250ebf9f53bb)
 - [[12] WITH 구문](https://www.notion.so/12-WITH-5dbb0a90cafc49899dd6e86875d37ba3)
@@ -46,12 +46,12 @@
 <br>
 
 ##### SQL 활용
-- [[1] 조인 (Join)](https://www.notion.so/1-Join-ca8c85bfe4144b10ac2b2aa114a12f87)
-- [[2] 계층형 조회 (Connect by)](https://www.notion.so/2-Connect-by-16f9c0c8fed945d19d899116895b5761)
-- [[3] 서브쿼리 (Subquery)](https://www.notion.so/3-Subquery-3b554efd71e44096aa6035d9594a3afa)
-- [[4] 그룹 함수(Group Function)](https://www.notion.so/4-Group-Function-6ce8fbf857fe4ee6aa68628c5a9ac781)
-- [[5] 윈도우 함수 (Window Function)](https://www.notion.so/5-Window-Function-d15804e8d500484f8047b464dc6204ec)
-- [[6] 테이블 파티션 (Table Partition)](https://www.notion.so/6-Table-Partition-16ccdf9850af4274a79e5b711789d9a5)
+- [[01] 조인 (Join)](https://www.notion.so/1-Join-ca8c85bfe4144b10ac2b2aa114a12f87)
+- [[02] 계층형 조회 (Connect by)](https://www.notion.so/2-Connect-by-16f9c0c8fed945d19d899116895b5761)
+- [[03] 서브쿼리 (Subquery)](https://www.notion.so/3-Subquery-3b554efd71e44096aa6035d9594a3afa)
+- [[04] 그룹 함수(Group Function)](https://www.notion.so/4-Group-Function-6ce8fbf857fe4ee6aa68628c5a9ac781)
+- [[05] 윈도우 함수 (Window Function)](https://www.notion.so/5-Window-Function-d15804e8d500484f8047b464dc6204ec)
+- [[06] 테이블 파티션 (Table Partition)](https://www.notion.so/6-Table-Partition-16ccdf9850af4274a79e5b711789d9a5)
 <br>
 <br>
 
